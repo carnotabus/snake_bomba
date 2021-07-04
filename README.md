@@ -1,13 +1,13 @@
 # snake_bomba
 este juego consiste en un mapa ciego  donde no veras si hay bombas o premios.  Tu suerte te llevara a ganar o no!!!
 
-instlacion:
+instalacion:
 
 apt install figlet
 
 pip install readchar
 
-git clone 
+git clone https://github.com/Lac0lm3n4/snake_bomba.git
 
 cd snake_bomba
 
